@@ -4,7 +4,7 @@
 
 ### Fullstack Developer & Web Designer · Neuchâtel, Switzerland 🇨🇭
 
-[![Website](https://img.shields.io/badge/patrickjunod.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://patrickjunod.dev)
+[![Website](https://img.shields.io/badge/patrickjunod.dev-000000?style=for-the-badge&logoColor=white)](https://patrickjunod.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickjunod/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/patrick_junod)
 
